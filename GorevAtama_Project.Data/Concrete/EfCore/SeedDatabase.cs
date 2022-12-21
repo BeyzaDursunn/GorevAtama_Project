@@ -54,14 +54,14 @@ namespace GorevAtama_Project.Data.Concrete.EfCore
         };
         private static Personel[] Personels =
         {
-            new Personel() {PersonelAd = "Doğukan", PersonelSoyad="Durkaya",Rol=Rols[0], Islem=Islems[0]},
-            new Personel() {PersonelAd = "Doğukan1", PersonelSoyad="Durkaya1",Rol=Rols[1], Islem=Islems[1]},
-            new Personel() {PersonelAd = "Doğukan2", PersonelSoyad="Durkaya2",Rol=Rols[2], Islem=Islems[2]},
-            new Personel() {PersonelAd = "Doğukan3", PersonelSoyad="Durkaya3",Rol=Rols[3], Islem=Islems[3]},
-            new Personel() {PersonelAd = "Doğukan4", PersonelSoyad="Durkaya4",Rol=Rols[4], Islem=Islems[4]},
-            new Personel() {PersonelAd = "Doğukan5", PersonelSoyad="Durkaya5",Rol=Rols[5], Islem=Islems[5]},
-            new Personel() {PersonelAd = "Doğukan6", PersonelSoyad="Durkaya6",Rol=Rols[6], Islem=Islems[6]},
-            new Personel() {PersonelAd = "Doğukan7", PersonelSoyad="Durkaya7",Rol=Rols[7], Islem=Islems[7]}
+            new Personel() {PersonelAd = "Beyza", PersonelSoyad="Dursun",Rol=Rols[0], Islem=Islems[0]},
+            new Personel() {PersonelAd = "Beyza1", PersonelSoyad="Dursun1",Rol=Rols[1], Islem=Islems[1]},
+            new Personel() {PersonelAd = "Beyza2", PersonelSoyad="Dursun2",Rol=Rols[2], Islem=Islems[2]},
+            new Personel() {PersonelAd = "Beyza3", PersonelSoyad="Dursun3",Rol=Rols[3], Islem=Islems[3]},
+            new Personel() {PersonelAd = "Beyza4", PersonelSoyad="Dursun4",Rol=Rols[4], Islem=Islems[4]},
+            new Personel() {PersonelAd = "Beyza5", PersonelSoyad="Dursun5",Rol=Rols[5], Islem=Islems[5]},
+            new Personel() {PersonelAd = "Beyza6", PersonelSoyad="Dursun6",Rol=Rols[6], Islem=Islems[6]},
+            new Personel() {PersonelAd = "Beyza7", PersonelSoyad="Dursun7",Rol=Rols[7], Islem=Islems[7]}
         };
 
     }
